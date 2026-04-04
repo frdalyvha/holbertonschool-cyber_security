@@ -20,3 +20,6 @@ Kills the 4-to_infinity_and_beyond process.
 
 ## 6-stop_me_if_you_can
 Kills the infinite loop process using pkill.
+
+## 67-stop_me_if_you_can
+Stops 7-highlander process using pkill.
