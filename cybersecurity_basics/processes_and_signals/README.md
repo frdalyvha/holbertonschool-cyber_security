@@ -8,3 +8,6 @@ Displays a list of currently running processes (all users, TTY, hierarchy).
 
 ## 2-show_your_bash_pid
 Displays lines containing 'bash' from ps auxf output.
+
+## 3-show_your_bash_pid_made_easy
+Shows PID and name of processes with 'bash' in name (no ps).
