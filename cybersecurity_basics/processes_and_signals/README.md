@@ -29,3 +29,4 @@ Kills the 7-highlander process.
 
 ## 9-process_and_pid_file
 Creates PID file, infinite loop with signal handling.
+## 10-manage_my_process\nInit script to start, stop, restart manage_my_process.
