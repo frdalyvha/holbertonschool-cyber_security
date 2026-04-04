@@ -26,3 +26,6 @@ Stops 7-highlander process using pkill.
 
 ## 8-beheaded_process
 Kills the 7-highlander process.
+
+## 9-process_and_pid_file
+Creates PID file, infinite loop with signal handling.

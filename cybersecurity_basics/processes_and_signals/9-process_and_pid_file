@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Creates PID file, infinite loop with traps for SIGTERM/SIGQUIT/SIGINT
+echo $$ > /tmp/myscript.pid
+trap 'echo "I hate the kill command"; rm -f /tmp/myscript.pid; exit' TERM QUIT
+trap 'echo "Y U no love me?!"' INT
+while true; do
+    echo "To infinity and beyond"
+    sleep 2
+done
