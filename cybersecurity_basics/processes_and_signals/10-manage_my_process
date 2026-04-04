@@ -27,8 +27,8 @@ case "$1" in
         stop
         ;;
     restart)
-        stop
-        start
+        stop > /dev/null 2>&1
+        start > /dev/null 2>&1
         echo "manage_my_process restarted"
         ;;
     *)
