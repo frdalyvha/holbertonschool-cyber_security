@@ -17,3 +17,6 @@ Infinite loop printing message every 2 seconds.
 
 ## 5-dont_stop_me_now
 Kills the 4-to_infinity_and_beyond process.
+
+## 6-stop_me_if_you_can
+Kills the infinite loop process using pkill.
