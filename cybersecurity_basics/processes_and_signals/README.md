@@ -23,3 +23,6 @@ Kills the infinite loop process using pkill.
 
 ## 67-stop_me_if_you_can
 Stops 7-highlander process using pkill.
+
+## 8-beheaded_process
+Kills the 7-highlander process.
