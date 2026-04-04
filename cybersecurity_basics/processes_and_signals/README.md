@@ -14,3 +14,6 @@ Shows PID and name of processes with 'bash' in name (no ps).
 
 ## 4-to_infinity_and_beyond
 Infinite loop printing message every 2 seconds.
+
+## 5-dont_stop_me_now
+Kills the 4-to_infinity_and_beyond process.
